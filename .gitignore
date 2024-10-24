@@ -1,0 +1,14 @@
+.conda/
+datasets/
+__pycache__/
+**/checkpoints/mri_autoenc/events.out.tfevents*
+**/checkpoints/mri_autoenc_latent/events.out.tfevents*
+checkpoints/
+evals/
+wandb/
+*.log
+netron_modell.*
+netron_model.*
+testforoai/*
+*.gif
+unimportant/
